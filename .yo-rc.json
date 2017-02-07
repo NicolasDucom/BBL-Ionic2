@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "BBL-Ionic2",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "NicolasDucom",
+    "githubRepository": "BBL-Ionic2"
+  }
+}
