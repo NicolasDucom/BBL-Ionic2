@@ -1,4 +1,17 @@
 [
     "intro.html",
-    "performances.html"
+    "kezako.html",
+    [
+        "performances.html",
+        "performances-detail.html"
+    ],
+    [
+        "autres-technos.html",
+        "autres-technos-nativescript.html",
+        "autres-technos-react.html"
+    ],
+    [
+        "webapps.html",
+        "webapps-detail.html"
+    ]
 ]
