@@ -2,8 +2,28 @@
     "intro.html",
     "kezako.html",
     [
-        "performances.html",
-        "performances-detail.html"
+        "intro/intro-ionic-1.html",
+        "intro/intro-hybrid.html",
+        "intro/intro-hybrid-2.html",
+        "intro/intro-ionic-2.html"
+    ],
+    [
+        "components/components-intro.html"
+    ],
+    [
+        "native/native-intro.html",
+        "native/native-plugins.html",
+        "native/native-promises.html"
+    ],
+    [
+        "theming/theming-intro.html"
+    ],
+    [
+        "performances/performances-intro.html",
+        "performances/performances-angular.html",
+        "performances/performances-angular-2.html",
+        "performances/performances-scroll.html",
+        "performances/performances-animation.html"
     ],
     [
         "autres-technos.html",
@@ -11,6 +31,7 @@
         "autres-technos-react.html"
     ],
     [
+        "tools/tools.html",
         "webapps.html",
         "webapps-detail.html"
     ]
