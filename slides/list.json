@@ -2,16 +2,51 @@
     "intro.html",
     "kezako.html",
     [
+        "intro/intro-ionic-1.html",
+        "intro/intro-hybrid.html",
+        "intro/intro-hybrid-2.html",
+        "intro/intro-ionic-2.html"
+    ],
+    "so-cool.html",
+    [
+        "components/components-intro.html",
+        "components/components-list.html",
+        "components/components-comparison-actionlist.html",
+        "components/components-comparison-alert.html",
+        "components/components-example.html"
+    ],
+    [
+        "native/native-intro.html",
+        "native/native-plugins.html",
+        "native/native-promises.html"
+    ],
+    "css.html",
+    [
+        "theming/theming-intro.html",
+        "theming/theming-colors.html",
+        "theming/theming-platform.html"
+    ],
+    [
+        "performances/performances-intro.html",
+        "performances/performances-angular.html",
+        "performances/performances-angular-2.html",
+        "performances/performances-scroll.html",
+        "performances/performances-animation.html",
         "performances.html",
-        "performances-detail.html"
+        "performances-detail.html",
+        "perfomances-gif.html",
+        "perfomances-example.html"
+    ],
+    "tools/tools.html",
+    [
+        "autres-technos/autres-technos.html",
+        "autres-technos/autres-technos-nativescript.html",
+        "autres-technos/autres-technos-react.html"
     ],
     [
-        "autres-technos.html",
-        "autres-technos-nativescript.html",
-        "autres-technos-react.html"
+        "webapps/webapps.html",
+        "webapps/webapps-detail.html"
     ],
-    [
-        "webapps.html",
-        "webapps-detail.html"
-    ]
+    "questions.html",
+    "bow.html"
 ]
