@@ -3,7 +3,9 @@
     "kezako.html",
     [
         "performances.html",
-        "performances-detail.html"
+        "performances-detail.html",
+        "perfomances-gif.html",
+        "perfomances-example.html"
     ],
     [
         "autres-technos.html",
