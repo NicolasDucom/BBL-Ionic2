@@ -7,16 +7,24 @@
         "intro/intro-hybrid-2.html",
         "intro/intro-ionic-2.html"
     ],
+    "so-cool.html",
     [
-        "components/components-intro.html"
+        "components/components-intro.html",
+        "components/components-list.html",
+        "components/components-comparison-actionlist.html",
+        "components/components-comparison-alert.html",
+        "components/components-example.html"
     ],
     [
         "native/native-intro.html",
         "native/native-plugins.html",
         "native/native-promises.html"
     ],
+    "css.html",
     [
-        "theming/theming-intro.html"
+        "theming/theming-intro.html",
+        "theming/theming-colors.html",
+        "theming/theming-platform.html"
     ],
     [
         "performances/performances-intro.html",
@@ -25,14 +33,17 @@
         "performances/performances-scroll.html",
         "performances/performances-animation.html"
     ],
+    "tools/tools.html",
     [
-        "autres-technos.html",
-        "autres-technos-nativescript.html",
-        "autres-technos-react.html"
+        "autres-technos/autres-technos.html",
+        "autres-technos/autres-technos-nativescript.html",
+        "autres-technos/autres-technos-react.html"
     ],
     [
-        "tools/tools.html",
-        "webapps.html",
-        "webapps-detail.html"
-    ]
+        "webapps/webapps.html",
+        "webapps/webapps-detail.html"
+    ],
+    "questions.html",
+    "other-questions.html",
+    "bow.html"
 ]
