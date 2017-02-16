@@ -1,0 +1,21 @@
+<h2 class="ionic-blue">MON PROPRE PLUGIN</h2>
+
+<ul>
+    <li>Possibilité de créer ses propres wrappers <span class="ionic-blue-bold">Ionic Native</span></li>
+</ul>
+
+<br/>
+
+<pre>
+    <code>
+        @Plugin({
+            plugin: 'cordova-plugin-geolocation',
+            pluginRef: 'navigator.geolocation'
+        })
+        export class Geolocation {
+
+            @Cordova()
+            static getCurrentPosition(options?: GeolocationOptions):
+                Promise&lt;Geoposition&gt; { return }
+    </code>
+</pre>

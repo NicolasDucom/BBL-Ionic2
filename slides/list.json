@@ -13,12 +13,15 @@
         "components/components-list.html",
         "components/components-comparison-actionlist.html",
         "components/components-comparison-alert.html",
+        "components/components-navcontroller.html",
         "components/components-example.html"
     ],
     [
         "native/native-intro.html",
         "native/native-plugins.html",
-        "native/native-promises.html"
+        "native/native-promises.html",
+        "native/native-other.html",
+        "native/native-other-2.html"
     ],
     "css.html",
     [
@@ -32,12 +35,12 @@
         "performances/performances-angular-2.html",
         "performances/performances-scroll.html",
         "performances/performances-animation.html",
-        "performances.html",
-        "performances-detail.html",
-        "perfomances-gif.html",
-        "perfomances-example.html"
+        "performances/performances-web-workers.html"
     ],
-    "tools/tools.html",
+    [
+        "tools/tools.html",
+        "tools/tools-2.html"
+    ],
     [
         "autres-technos/autres-technos.html",
         "autres-technos/autres-technos-nativescript.html",
@@ -48,5 +51,6 @@
         "webapps/webapps-detail.html"
     ],
     "questions.html",
+    "other-questions.html",
     "bow.html"
 ]
