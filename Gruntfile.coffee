@@ -14,6 +14,7 @@ module.exports = (grunt) ->
                     'slides/{,*/}*.{md,html}'
                     'js/*.js'
                     'resources/**'
+                    'styles/**'
                 ]
 
             index:
