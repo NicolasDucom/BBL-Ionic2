@@ -36,7 +36,10 @@
         "performances/performances-animation.html",
         "performances/performances-web-workers.html"
     ],
-    "tools/tools.html",
+    [
+        "tools/tools.html",
+        "tools/tools-2.html"
+    ],
     [
         "autres-technos/autres-technos.html",
         "autres-technos/autres-technos-nativescript.html",
