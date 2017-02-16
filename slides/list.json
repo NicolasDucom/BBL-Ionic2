@@ -18,7 +18,9 @@
     [
         "native/native-intro.html",
         "native/native-plugins.html",
-        "native/native-promises.html"
+        "native/native-promises.html",
+        "native/native-other.html",
+        "native/native-other-2.html"
     ],
     "css.html",
     [
@@ -31,7 +33,8 @@
         "performances/performances-angular.html",
         "performances/performances-angular-2.html",
         "performances/performances-scroll.html",
-        "performances/performances-animation.html"
+        "performances/performances-animation.html",
+        "performances/performances-web-workers.html"
     ],
     "tools/tools.html",
     [
