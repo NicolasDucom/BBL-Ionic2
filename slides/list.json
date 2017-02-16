@@ -23,11 +23,7 @@
         "performances/performances-angular.html",
         "performances/performances-angular-2.html",
         "performances/performances-scroll.html",
-        "performances/performances-animation.html",
-        "performances.html",
-        "performances-detail.html",
-        "perfomances-gif.html",
-        "perfomances-example.html"
+        "performances/performances-animation.html"
     ],
     [
         "autres-technos.html",
